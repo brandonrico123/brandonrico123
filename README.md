@@ -36,6 +36,7 @@ Desarrollador de Software Multiplataforma apasionado por construir **soluciones 
 | **🧭 ecoruta-ia-utl** | Sistema de **navegación en campus** basado en algoritmos de búsqueda y modelos de IA. | ![Grafos](https://img.shields.io/badge/Grafos-ffb703?style=flat-square) ![IA](https://img.shields.io/badge/IA-7f52ff?style=flat-square) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/brandonrico123/ecoruta-ia-utl) |
 | **💬 Chatbot WhatsApp + CRM** | Desarrollo e integración de un chatbot conectado a un CRM para atención y ventas. *(Privado)* | ![n8n](https://img.shields.io/badge/n8n-ea4b71?style=flat-square) ![API](https://img.shields.io/badge/APIs-ff6c37?style=flat-square) | `Privado` |
 
+[![ecoScan](https://github-readme-stats.vercel.app/api/pin/?username=brandonrico123&repo=ecoScan&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=ffb703&text_color=c9d1d9)](https://github.com/brandonrico123/ecoScan) [![ecoruta-ia-utl](https://github-readme-stats.vercel.app/api/pin/?username=brandonrico123&repo=ecoruta-ia-utl&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=ffb703&text_color=c9d1d9)](https://github.com/brandonrico123/ecoruta-ia-utl)
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
